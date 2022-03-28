@@ -3,7 +3,7 @@ import random
 from fpdf import FPDF
 import time
 
-path = 'C:\\Users\\Jai\\Documents\\GitHub\\ISTE-cipher\\ISTE\\Dummy'
+path = 'C:\\Users\\khush\\Documents\\GitHub\\ISTE-cipher\\ISTE\\Program Files\\ISTE'
 chars = 'qwertyuiopasdfghjklzxcvbnm'
 
 
@@ -30,4 +30,4 @@ def create_folder(n):
         # file.write('Wrong File, Please try again')
 
 
-create_folder(10)
+create_folder(499)
